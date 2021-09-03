@@ -46,14 +46,14 @@
 
 <p align="center">
     <a href="https://github.com/Malith-Anjana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malith-Anjana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malith-Anjana&theme=black-ice&hide_border=true&stroke=0000/>
     </a>
 </p>
 
 ## **3.  My Github Stats**
 
   <br/>
-    <a href="https://github.com/Malith-Anjana/github-readme-stats"><img alt="Malith-Anjana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Malith-Anjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Malith-Anjana/github-readme-stats"><img alt="Malith-Anjana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Malith-Anjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D111" /></a>
   <a href="https://github.com/Malith-Anjana/github-readme-stats"><img alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith-Anjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
