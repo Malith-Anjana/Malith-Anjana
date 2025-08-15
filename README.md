@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available on **[ Git ]("https://github.com/Malith-Anjana")**
-
-- 📫 How to reach me **malithanjana97@gmail.com**
   
 
 ## **2.  Languages and Tools**
