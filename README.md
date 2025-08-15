@@ -7,17 +7,12 @@
 ## **1. About Me**
 - 🔥 **[My Portfolio](https://malith-anjana.github.io/My_Portfolio/)**
 
-- 🔭 I’m currently working on **[Blog Site](https://blogapp-from-git.herokuapp.com/)**
-
-- 🌱 I’m currently learning **React Native and Flutter**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available on **[ Git ]("https://github.com/Malith-Anjana")**
 
 - 📫 How to reach me **malithanjana97@gmail.com**
-
-- ⚡ Fun fact **I play guitar and do some Electronic projects.**
+  
 
 ## **2.  Languages and Tools**
 
