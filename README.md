@@ -1,11 +1,39 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=35&pause=1000&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi%2C+I+am+Malith+Anjana" alt="Typing SVG" />
+</h1>
 
-<h1>Hi, I'm Malith <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-Welcome to my page!
-I'm Malith, Software Engineer, Freelancer from  Sri Lanka.
+<h3 align="center">A passionate Software Engineer from Sri Lanka 🇱🇰</h3>
+
+<br/>
+
+<div align="center">
+🚀 Software Engineer | Java • React • Next.js • Spring Boot <br/>
+Dedicated to building modern, high-performance applications with scalable backends and sleek frontends. <br/> I’m passionate about crafting clean, maintainable code and continuously exploring tools like Docker, AWS, and CI/CD pipelines to streamline development and deployment.
+
+ </div>
+ </div> <br/>
+
   
+<div align="center"> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/malith-anjana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## **Technologies & Tools**
+ <br/>
+ 
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<!-- <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div> -->
 
 <p align="left"> 
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ED8B0B?style=flat-square&logo=javascript&logoColor=white" />
@@ -35,26 +63,17 @@ I'm Malith, Software Engineer, Freelancer from  Sri Lanka.
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Malith-Anjana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malith-Anjana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## **Github Stats**
+<h2 align="center">GitHub Stats</h2>
 
   <br/>
-    <a href="https://github.com/Malith-Anjana/github-readme-stats"><img alt="Malith-Anjana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Malith-Anjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-  <a href="https://github.com/Malith-Anjana/github-readme-stats"><img alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith-Anjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <div align=center>
+    <img width=390 alt="Malith-Anjana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Malith-Anjana&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10&bg_color=060A0CD0" />
+    <img width=390 title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malith-Anjana&theme=black-ice&stroke=0000&background=060A0CD0&border_radius=10"/>
+<img width=325 alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith-Anjana&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=060A0CD0&border_radius=10" />
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <div/>
 
 
 <br/>
 <br/>
-
-<a href="https://github.com/Malith-Anjana/github-readme-activity-graph"><img alt="Malith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Malith-Anjana&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
