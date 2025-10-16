@@ -19,7 +19,7 @@ Dedicated to building modern, high-performance applications with scalable backen
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/malith-anjana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white" target="_blank" />
   </a>
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -30,12 +30,12 @@ Dedicated to building modern, high-performance applications with scalable backen
  
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
-<!-- <div align="center">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div> -->
+</div>
 
-<p align="left"> 
+<!-- <p align="left"> 
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ED8B0B?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF3E00?style=flat-square&logo=openjdk&logoColor=white"">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -58,7 +58,7 @@ Dedicated to building modern, high-performance applications with scalable backen
   <img alt="expresjs" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Intellijidea" src="https://img.shields.io/badge/-Intellij_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
-</p>
+</p> -->
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
