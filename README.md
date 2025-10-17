@@ -69,9 +69,9 @@ Dedicated to building modern, high-performance applications with scalable backen
 
   <br/>
   <div align=center>
-    <img width=390 alt="Malith-Anjana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Malith-Anjana&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10&bg_color=060A0CD0" />
-    <img width=390 title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Malith-Anjana&theme=black-ice&stroke=0000&background=060A0CD0&border_radius=10"/>
-<img width=325 alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith-Anjana&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=060A0CD0&border_radius=10" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Malith-Anjana&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10&bg_color=060A0CD0" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Malith-Anjana&theme=black-ice&stroke=0000&background=060A0CD0&border_radius=10"/>
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malith-Anjana&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=060A0CD0&border_radius=10" />
   <br/>
  <div/>
 
