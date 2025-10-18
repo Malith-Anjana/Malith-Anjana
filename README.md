@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-🚀 Software Engineer | Java • React • Next.js • Spring Boot <br/>
-Dedicated to building modern, high-performance applications with scalable backends and sleek frontends. <br/> I’m passionate about crafting clean, maintainable code and continuously exploring tools like Docker, AWS, and CI/CD pipelines to streamline development and deployment.
+Full-Stack Engineer skilled in Java, Javascript, Spring Boot, React, and Next.js <br/>
+Passionate about scalable systems, clean architecture, and efficient deployments
 
  </div>
  </div> <br/>
