@@ -28,7 +28,7 @@ Passionate about scalable systems, clean architecture, and efficient deployments
 
  <br/>
  
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages | Frameworks | Tools</h2>
 <br/>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,typescript,express,firebase,mongodb,c,spring,nextjs,mysql,flask" />
